@@ -47,7 +47,10 @@ g++ airline_reservation.cpp -o airline
 
 
 💡 Future Enhancements
+
 🔹 Add a Graphical User Interface (GUI) for better user experience
+
 🔹 Implement Database Storage (MySQL or SQLite) for persistent booking data
+
 🔹 Improve Seat Selection Visualization with an interactive display
 
