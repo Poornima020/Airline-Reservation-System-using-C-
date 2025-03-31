@@ -18,30 +18,25 @@ Arrays (Seat allocation)
 File Handling (Future Update) – Can be added to store bookings persistently
 
 📌 How to Run
+
 1️⃣ Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/airline-reservation-system.git
+
+
 2️⃣ Navigate to the project directory:
 
-bash
-Copy
-Edit
 cd airline-reservation-system
+
 3️⃣ Compile the program:
 
-bash
-Copy
-Edit
 g++ airline_reservation.cpp -o airline
+
 4️⃣ Run the program:
 
-bash
-Copy
-Edit
 ./airline
+
+
 💡 Future Enhancements
 🔹 Add a Graphical User Interface (GUI) for better user experience
 🔹 Implement Database Storage (MySQL or SQLite) for persistent booking data
