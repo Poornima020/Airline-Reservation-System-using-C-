@@ -1,5 +1,7 @@
 # Airline-Reservation-System-using-C-
 This project is a simple Airline Flight Reservation System implemented in C++. It allows users to book, cancel, and modify flight reservations while maintaining passenger details. The system is designed using linked lists for dynamic memory management and arrays for seat allocation.
+
+
 🚀 Features
 ✅ Book Ticket – Allows users to reserve seats, select food preferences, and generate a unique reservation number.
 ✅ Cancel Ticket – Enables ticket cancellation and seat reallocation.
