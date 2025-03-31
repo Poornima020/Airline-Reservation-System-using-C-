@@ -4,13 +4,19 @@ This project is a simple Airline Flight Reservation System implemented in C++. I
 
 🚀 Features
 ✅ Book Ticket – Allows users to reserve seats, select food preferences, and generate a unique reservation number.
+
 ✅ Cancel Ticket – Enables ticket cancellation and seat reallocation.
+
 ✅ Modify Reservation – Passengers can change their seat number if required.
+
 ✅ Passenger Details – Displays specific passenger details based on the reservation number.
+
 ✅ Booking Overview – Lists all current reservations with seat numbers and food preferences.
+
 ✅ Seat Selection – Ensures proper seat allocation with an intuitive layout display.
 
 🛠️ Technologies Used
+
 C++ (Standard Library)
 
 Linked Lists (Passenger data management)
